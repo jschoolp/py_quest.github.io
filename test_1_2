@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Iframe Content</title>
+</head>
+<body>
+    <style>
+        body {
+            padding: 0;
+            margin: 0;
+        }
+        p {
+            font-size: 20px; font-family: terminal, monaco, monospace; margin-top: 48px;
+        }
+        img {
+            width: 750px;
+            height: 400px;
+        }
+        div {
+            width: 750px;
+        }
+    </style>
+
+    <div>
+        <img src=https://cdn.justschool.me/media/uploads/2024/09/25/66f3bb5b2b268786347928.png alt="">
+        <p>Доктор підморгує, ніби запевняючи, що все під контролем.</p>
+    </div>
+
+</body>
+</html>
